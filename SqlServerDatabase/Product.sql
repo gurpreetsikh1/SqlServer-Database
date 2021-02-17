@@ -4,6 +4,6 @@
     [Name] VARCHAR(50) NULL, 
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL,
-    [Discount] INT NULL
+    [Discount] INT NULL,
     [Offer] INT NULL
 )
